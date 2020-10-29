@@ -3,12 +3,10 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
+As a result of Coronavirus 19 (COVID-19), all Wake County schools in NC are closed. 
+The Wake County Public School System (WCPSS) has moved the learning process online. 
+The purpose of this project is to create a web app that can help students in the transition online, especially younger ones.
+In order to help children, we have created a web app that will organize all the daily information they need and links to online resources in one place. 
+The web app is simply a blog app that Mills Park Elementary students of early age can access without problems.
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
-
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
-
-![Add alternate text for image](./assets/rosemary.png)
+![Add alternate text for image](./assets/Picture1.png)
